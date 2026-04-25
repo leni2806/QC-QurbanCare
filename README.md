@@ -49,7 +49,7 @@ Berdasarkan standar UI/UX yang telah ditetapkan dalam prototipe:
 ## 📊 Manajemen Proyek
 Proyek ini dikembangkan dengan metodologi **SCRUM**. Seluruh dokumentasi tugas dan *sprint* dikelola melalui tautan di bawah ini:
 
-* **Link ClickUp**: [https://sharing.clickup.com/90181803761/g/h/6-901812162495-7/e8eeea0432b5c30]
+* **Link ClickUp**: [https://sharing.clickup.com/90181803761/g/h/6-901816227141-7/a68513e0fbff78f]
 * **Portal Akademik**: [MEGAH Pelita Bangsa](https://megah.pelitabangsa.ac.id/)
 
 ---
